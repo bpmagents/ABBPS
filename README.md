@@ -1,6 +1,7 @@
 # ABBPS
 Accompanying resources for the abbps
 
+
 ABBPS
 
 This repository contains the accompanying resources for the ABBPS book. The book's website is: https://abmsim.di.unito.it/abm4bpm/
@@ -8,14 +9,23 @@ This repository contains the accompanying resources for the ABBPS book. The book
 The repository is organised around the format of the book. In each subdirectory you can find models, data and other materials used in the corresponding chapter.
 
 Chapter 1: Introducing Agent-based Simulation for Business Processes
+
 Chapter 2: The Analysis of Business Processes
+
 Chapter 3: Agent and Organization Studies
+
 Chapter 4: Agent-based Simulation with NetLogo
+
 Chapter 5: Agent-Oriented Modeling
+
 Chapter 6: Agent-Based Business Process Simulation
+
 Chapter 7: Multi-Agent Systems and Business Process Management
+
 Chapter 8: Practical Applications
+
 Chapter 9: Beyond Process Simulation
+
 
 In addtion we provide:
 

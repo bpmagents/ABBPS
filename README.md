@@ -1,6 +1,7 @@
 # ABBPS
 Accompanying resources for the abbps
 
+##################################################################################################
 
 ABBPS
 
@@ -26,6 +27,7 @@ Chapter 8: Practical Applications
 
 Chapter 9: Beyond Process Simulation
 
+--------------------------------------------------------------------------------------------------
 
 In addtion we provide:
 

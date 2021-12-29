@@ -1,5 +1,5 @@
 # ABBPS
-ABBPS repository
+Accompanying resources for the abbps
 
 ABBPS
 

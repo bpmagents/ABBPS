@@ -8,9 +8,9 @@ This repository contains the accompanying resources for the Agent-Based Business
 
 The repository is organised around the format of the book. In each subdirectory you can find models, data and other materials used in the corresponding chapter.
 
-Chapter 1: Introducing Agent-based Simulation for Business Processes
-Chapter 2: The Analysis of Business Processes
-Chapter 3: Agent and Organization Studies
+Chapter 1: Introducing Agent-based Simulation for Business Processes. 
+Chapter 2: The Analysis of Business Processes. 
+Chapter 3: Agent and Organization Studies. 
 
 Chapter 4: Agent-based Simulation with NetLogo
 

@@ -1,5 +1,6 @@
-# ABBPS
-Accompanying resources for the abbps
+# Agent-Based Business Process Simulation
+
+### Accompanying resources for the book
 
 -------------------------------------------------------------------------------------------------
 
